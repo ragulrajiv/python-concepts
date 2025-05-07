@@ -9,4 +9,7 @@ All Python  Concepts and examples
 ## 7.Functions
 ## 8.Arrays
 ## 9.Numpy
+## 10.Pandas
+## 11.Data Visualization
+## 12.OOPS
 
